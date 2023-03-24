@@ -1,9 +1,9 @@
 # NoSQL-Challenge
 NU Bootcamp Module 12
 
-** Breakdown of folders/files**
--Resources/establishments.json  -- this file contains the raw JSON data that I uploaded into MongoDB in order to perform the analysis.
--Resources/mongoimport.exe  --  this file allows for a smoother bulk upload of large datasets into mongoDB.
+** Breakdown of files**
+-establishments.json  -- this file contains the raw JSON data that I uploaded into MongoDB in order to perform the analysis.
+-mongoimport.exe  --  this file allows for a smoother bulk upload of large datasets into mongoDB.
 -NoSQL_setup_starter.ipynb -- this file contains the work completed in part 1 (details below).
 -NoSQL_analysis_starter -- this file contains the work completed in parts 2 and 3 (details below).
 
