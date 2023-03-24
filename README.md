@@ -2,10 +2,10 @@
 NU Bootcamp Module 12
 
 ** Breakdown of folders/files**
--Resources/establishments.json  -- this file contains the raw JSON data that I uploaded into MongoDB in order to perform the analysis
--Resources/mongoimport.exe  --  this file allows for a smoother bulk upload of large datasets into mongoDB
--NoSQL_setup_starter.ipynb -- this file contains the work completed in part 1 (details below)
--NoSQL_analysis_starter -- this file contains the work completed in parts 2 and 3 (details below)
+-Resources/establishments.json  -- this file contains the raw JSON data that I uploaded into MongoDB in order to perform the analysis.
+-Resources/mongoimport.exe  --  this file allows for a smoother bulk upload of large datasets into mongoDB.
+-NoSQL_setup_starter.ipynb -- this file contains the work completed in part 1 (details below).
+-NoSQL_analysis_starter -- this file contains the work completed in parts 2 and 3 (details below).
 
 **Instructions**
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
